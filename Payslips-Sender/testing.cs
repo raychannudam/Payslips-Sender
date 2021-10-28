@@ -10,7 +10,7 @@ namespace Payslips_Sender
     {
         public void callme()
         {
-            
+            Console.Write("Udam");
         }
     }
 }
