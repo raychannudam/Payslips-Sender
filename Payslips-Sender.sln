@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payslips-Sender", "Payslips-Sender\Payslips-Sender.csproj", "{8804B256-FD75-495F-9D2B-7900776B3BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8804B256-FD75-495F-9D2B-7900776B3BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8804B256-FD75-495F-9D2B-7900776B3BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8804B256-FD75-495F-9D2B-7900776B3BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8804B256-FD75-495F-9D2B-7900776B3BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {449C5D3D-D94B-442F-BF9F-54A09896F33C}
+	EndGlobalSection
+EndGlobal
